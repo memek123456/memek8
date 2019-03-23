@@ -1,6 +1,6 @@
 <?php
 ///masukan password sama email yang terdaftar di aplikasi eCash
 
-$email = 'xxxxxxxxxxxxx';
-$password = 'xxxxxxxxxxx';
+$email = 'kenjikazama7@gmail.com';
+$password = 'A123456789p';
 
